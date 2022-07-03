@@ -1,2 +1,2 @@
 # AWT
-This Repository of basic of HTML, CSS and JavaScript.
+This Repository contains basics of HTML, CSS and JavaScript.
